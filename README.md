@@ -1,6 +1,5 @@
-# JAVA-Applications
+## JAVA-Applications
 
-1. Brick breaker game
-2. Clock
-3. Login page
-4. Encrytion-decryption program
+1. Clock
+2. Login page
+3. Encrytion-decryption program
